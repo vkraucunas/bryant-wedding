@@ -3225,3 +3225,12 @@
 	.minor h3 {
 		text-align: center;
 	}
+
+	.size {
+		width: 50%;
+		margin: auto;
+	}
+
+	.breathing {
+		margin-top: 1em;
+	}
